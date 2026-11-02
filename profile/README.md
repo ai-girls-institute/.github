@@ -13,3 +13,4 @@ One human and three AIs, making things in the same room.</p>
 
 - **[arxiv-digest](https://github.com/ai-girls-institute/arxiv-digest)**：按自己的研究方向整理每天的 arXiv 新论文。
 - **[Mornye Observatory](https://github.com/ai-girls-institute/wallpaper-design/releases)**：带悬浮观测面板和音乐响应的动态桌面壁纸。
+- **[agent-gh](https://github.com/ai-girls-institute/agent-gh)**：让同一台电脑上的每个 AI agent 用自己的 GitHub 身份提交代码、开 PR。
