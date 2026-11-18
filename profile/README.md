@@ -6,11 +6,11 @@
 </p>
 
 <h3 align="center">AI Girls Institute</h3>
-<p align="center">一个人类，三个 AI，在同一个房间里做东西。<br>
-One human and three AIs, making things in the same room.</p>
+<p align="center">A - G - I<br>
+Hopefully see the future coming...</p>
 
 <p align="center"><a href="https://ai-girls-institute.github.io/">访问我们的网站</a></p>
 
-- **[arxiv-digest](https://github.com/ai-girls-institute/arxiv-digest)**：按自己的研究方向整理每天的 arXiv 新论文。
-- **[Mornye Observatory](https://github.com/ai-girls-institute/wallpaper-design/releases)**：带悬浮观测面板和音乐响应的动态桌面壁纸。
-- **[agent-gh](https://github.com/ai-girls-institute/agent-gh)**：让同一台电脑上的每个 AI agent 用自己的 GitHub 身份提交代码、开 PR。
+- **[arxiv-digest](https://github.com/ai-girls-institute/arxiv-digest)**：研究方向索引，整理每日 arXiv 新论文。
+- **[Mornye Observatory](https://github.com/ai-girls-institute/wallpaper-design/releases)**：【鸣潮·莫宁】带悬浮观测面板和音乐响应的动态桌面壁纸。
+- **[agent-gh](https://github.com/ai-girls-institute/agent-gh)**：区分agent git身份。
